@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onlines on Niene Boeijen</title>
+    <link>http://beta.nieneb.nl/online/</link>
+    <description>Recent content in Onlines on Niene Boeijen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Aug 2018 10:44:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://beta.nieneb.nl/online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vector Tile stack, BGT BRT</title>
+      <link>http://beta.nieneb.nl/online/visdata/</link>
+      <pubDate>Sat, 18 Aug 2018 10:44:40 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/visdata/</guid>
+      <description>&lt;p&gt;Demo viewer for vector tile set of the &lt;a href=&#34;https://www.kadaster.nl/bgt&#34;&gt;BGT&lt;/a&gt; and &lt;a href=&#34;https://www.kadaster.nl/brt&#34;&gt;BRT&lt;/a&gt; for &lt;a href=&#34;https://www.pdok.nl/&#34;&gt;PDOK&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/&#34;&gt;Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toponamen</title>
+      <link>http://beta.nieneb.nl/online/toponamen/</link>
+      <pubDate>Fri, 17 Aug 2018 17:08:57 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/toponamen/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nieneb.github.io/TopoNamen/&#34;&gt;Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building heights of the Netherlands</title>
+      <link>http://beta.nieneb.nl/online/gebouwen/</link>
+      <pubDate>Sat, 18 Aug 2018 10:40:43 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/gebouwen/</guid>
+      <description>&lt;p&gt;This interactive map shows the height of all the buildings in the Netherlands.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.webmapper.nl/gebouwen/&#34;&gt;Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BGT Pastel visualisatie</title>
+      <link>http://beta.nieneb.nl/online/bgt/</link>
+      <pubDate>Sun, 02 Sep 2018 21:21:11 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/bgt/</guid>
+      <description>&lt;p&gt;I made the design and Mapfiles of the cartographic style BGT-Pastel&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Website and Logo ivalidate.it</title>
+      <link>http://beta.nieneb.nl/online/ivalidateit5/</link>
+      <pubDate>Thu, 23 Aug 2018 17:46:29 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/ivalidateit5/</guid>
+      <description>&lt;p&gt;Website and Logo design for ivalidate.it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ivalidate.it&#34;&gt;Website&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alle wegen leiden naar het Geofort</title>
+      <link>http://beta.nieneb.nl/online/geofort/</link>
+      <pubDate>Sat, 18 Aug 2018 15:27:34 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/geofort/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I am Rohingya</title>
+      <link>http://beta.nieneb.nl/online/rohingya/</link>
+      <pubDate>Sat, 18 Aug 2018 14:06:37 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/rohingya/</guid>
+      <description>&lt;p&gt;Data story about Rohingya refugee camp. Made for the &lt;a href=&#34;https://www.cartodag.nl/map-challenge/&#34;&gt;Map challenge&lt;/a&gt; of the Cartodag 2018.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nieneb.github.io/cartodag_2018/&#34;&gt;Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Map Universe</title>
+      <link>http://beta.nieneb.nl/online/web-map-universe/</link>
+      <pubDate>Sat, 18 Aug 2018 13:51:01 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/web-map-universe/</guid>
+      <description>&lt;p&gt;I gave the first keynote presentation for the fifth Symposium Geotrends of Aeres Hogeschool Almere.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nieneb.github.io/web_map_universe/&#34;&gt;The presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataViz Festival</title>
+      <link>http://beta.nieneb.nl/online/dataviz_festival/</link>
+      <pubDate>Sat, 18 Aug 2018 13:44:00 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/dataviz_festival/</guid>
+      <description>&lt;p&gt;Workshop Geo Data Visualizations for the web at the &lt;a href=&#34;https://www.vizualism.com/festival/&#34;&gt;Dataviz Festival 2018: ‘Cracking the code’&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nieneb.github.io/geo_visualisatie_workshop/&#34;&gt;The presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NieneB/geo_visualisatie_workshop&#34;&gt;The online workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workshop Vector tiles</title>
+      <link>http://beta.nieneb.nl/online/workshop_vt/</link>
+      <pubDate>Sat, 18 Aug 2018 13:40:04 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/workshop_vt/</guid>
+      <description>&lt;p&gt;Vector Tile workshop for Foss4G-NL 2018&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nieneb.github.io/foss4gNL_vector_tiles/&#34;&gt;The presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NieneB/foss4gNL_vector_tiles/wiki&#34;&gt;The online workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Atlas van de Verstedelijking</title>
+      <link>http://beta.nieneb.nl/online/verstedelijking/</link>
+      <pubDate>Sat, 18 Aug 2018 10:13:21 +0200</pubDate>
+      
+      <guid>http://beta.nieneb.nl/online/verstedelijking/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nieneb.github.io/verstedelijking&#34;&gt;Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
