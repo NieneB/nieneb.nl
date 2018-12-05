@@ -1,6 +1,8 @@
-baseURL = "http://beta.nieneb.nl/"
+baseURL = "https://nieneb.nl/"
 languageCode = "en-us"
-title = "Niene Boeijen"
+title = "Niene Boeijen - My Personal Web Page and Portfolio"
+description = "This is my personal website and portfolio. Want to find out what I create for work and in my free time?"
+tags = "Personal Web Page" 
 # theme = "hugo-creative-portfolio-theme"
 
 [params]
@@ -8,7 +10,8 @@ title = "Niene Boeijen"
   sidebarAbout = [ "Hello this is me!</br> </br> I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Everything I make is with a creative focus, from geo-data analysis to cartographic visualizations on the web. Check my <a href='/online'>online portfolio</a> for my work online and workshops and presentations. </br></br> In my free time I am always creating things. As artist and tinkerer. Check my <a href='/offline'>offline portfolio</a> for everything physical I create. </br> </br> Want to know more or get into contact with me, check <a href='/about'>about me</a>.</br> </br>I also organize Maptime Amsterdam and Maptime Utrecht."
   ]
   sidebarAbout2 = [ "niene @ webmapper . net "]
- 
+  sidebarAboutMob = [ "Hello this page is about me!</br> </br> I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Check my <a href='/online'>online portfolio</a> for my work online and workshops and presentations. </br></br> In my free time I am a artist and tinkerer. Check my <a href='/offline'>offline portfolio</a>"
+  ]
   email = "niene@webmapper.net"
 
   [[params.navlinks]]

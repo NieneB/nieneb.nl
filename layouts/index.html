@@ -1,7 +1,9 @@
 <head> 
+    <meta name="google-site-verification" content="NFtw2Dc7IG1FsBfz4B3smJm6bDE3dbfVmEXXmaysLmw" />
     {{ range .Site.Params.navlinks }}
     {{ if .home }}
     <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+    <meta name="description" content="{{ .Description }}">
     {{ end }}
     {{ end }}
   </head>
