@@ -1,7 +1,9 @@
 <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
   <h1 class="small-navbar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-   {{ range .Site.Params.sidebarAbout }}
-  <p class="sidebar-p">{{ . | safeHTML }}</p>
+   
+ <div >{{ range .Site.Params.sidebarAboutMob }}
+  <p class="small-navbar-p">{{ . | safeHTML }}</p>
   {{ end }}
+  </div>
 </div>
