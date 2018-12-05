@@ -3,7 +3,7 @@ title: "Model Drawing"
 date: 2018-08-18T12:12:47+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/offline/IMG_20180412_080701.jpg"
+image : "https://nieneb.nl/img/offline/IMG_20180412_080701.jpg"
 weight : 10
 ---
 

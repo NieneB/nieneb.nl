@@ -3,7 +3,7 @@ title: "White ink on black paper artwork"
 date: 2018-08-18T13:35:57+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/zwartwit/IMG_20180428_131215.jpg"
+image : "https://nieneb.nl/img/zwartwit/IMG_20180428_131215.jpg"
 weight : 0
 ---
 

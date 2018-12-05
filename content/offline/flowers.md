@@ -3,7 +3,7 @@ title: "Flower Bouquet"
 date: 2018-08-18T13:34:26+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/bloem/IMG_20180726_205219.jpg"
+image : "https://nieneb.nl/img/bloem/IMG_20180726_205219.jpg"
 weight : 0
 ---
 
@@ -13,6 +13,6 @@ I made this flower bouquet for on the wedding car.
 
 <!-- <img src="http://beta.nieneb.nl/img/bloem/IMG_20180726_205219.jpg"> -->
 
-<img src="http://beta.nieneb.nl/img/bloem/IMG_20180727_171458.jpg">
+<img src="{{< baseurl >}}img/bloem/IMG_20180727_171458.jpg">
 
 

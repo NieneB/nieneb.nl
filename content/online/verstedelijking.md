@@ -3,10 +3,10 @@ title: "Atlas van de Verstedelijking"
 date: 2018-08-18T10:13:21+02:00
 draft: false
 showonlyimage : false
-image : "http://beta.nieneb.nl/img/online/atlas.png"
+image : "https://nieneb.nl/img/online/atlas.png"
 ---
 
-* [Application](http://nieneb.github.io/verstedelijking)
+* [Application](https://nieneb.github.io/verstedelijking)
 
 <!--more-->
 <!-- <img src="https://raw.githubusercontent.com/NieneB/verstedelijking/gh-pages/screenshot.jpg" width="500px"> -->

@@ -3,7 +3,7 @@ title: "Building heights of the Netherlands"
 date: 2018-08-18T10:40:43+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/utrecht.png"
+image : "https://nieneb.nl/img/online/utrecht.png"
 weight : 10
 hashtags: "webmapper,Top10NL3D"
 appurl: "https://apps.webmapper.nl/gebouwen/"
@@ -27,9 +27,9 @@ Later on I added a scroll story, which shows some information about the highest 
 
 At Foss4G-NL 2018 my map was used as the background for their promotion materials! [Matthew Petroff](http://mpetroff.net/) build a tool <i class="fa fa-github"></i> [print maps](https://github.com/mpetroff/print-maps) to export MapboxGL maps to hight resolution images for printing. I <i class="fa fa-github"></i> [forked this tool](https://github.com/NieneB/print-maps) to insert my own map on order to export a high resolution image to make the banner from.
 
-<img src="http://beta.nieneb.nl/img/online/IMG_20180710_093753.jpg">
+<img src="{{< baseurl >}}img/online/IMG_20180710_093753.jpg">
 
-<img src="http://beta.nieneb.nl/img/online/IMG_20180711_094602.jpg">
+<img src="{{< baseurl >}}img/online/IMG_20180711_094602.jpg">
 
 
 Inspiration:
@@ -40,7 +40,5 @@ Inspiration:
 * [Vancouver](http://maps.nicholsonroad.com/heights/)
 
 
-Made for webmapper. 
-<a href="http://webmapper.net">
-<img src="https://raw.githubusercontent.com/wiki/NieneB/Webmapping_for_beginners/img/webmapper_logo_tekst.png" width="250px"> </a>
 
+Made for webmapper: <a href="https://webmapper.net">![](/img/logo_reverse.svg)</a>

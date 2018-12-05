@@ -3,7 +3,7 @@ title: "Vector Tile stack, BGT BRT"
 date: 2018-08-18T10:44:40+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/visdata_app.png"
+image : "https://nieneb.nl/img/online/visdata_app.png"
 weight : 2
 hashtags: "vector tiles,PDOK"
 screenname: "BNiene @PDOK @Webmappery"
@@ -23,3 +23,6 @@ I developed a vector tile set of the Dutch topographic registrations, together w
 <!-- ![viewer](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=%2B%2F%2FvmYV8y5Iyv%2BqOgPnw6G1AOCY%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjqfMaJebXw8UAVLX4EjQA7Kuy1SWG3EI6_foLmetglj5-xcZn5agYUbhl4lWdI) -->
 
 ![styles](https://camo.githubusercontent.com/06c5ebd2d978cc91c63be423b3a3c448d419a2b2/68747470733a2f2f7777772e70646f6b2e6e6c2f73697465732f64656661756c742f66696c65732f696d616765732f76742e706e67)
+
+
+Made for webmapper: <a href="https://webmapper.net">![](/img/logo_reverse.svg)</a>

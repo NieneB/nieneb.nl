@@ -3,7 +3,7 @@ title: "I am Rohingya"
 date: 2018-08-18T14:06:37+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/rohingya.png"
+image : "https://nieneb.nl/img/online/rohingya.png"
 weight : 0
 ---
 
@@ -18,7 +18,7 @@ Rohingya displacement data from [The Humanitarian Data Exchange](https://data.hu
 [Github repro](https://github.com/NieneB/cartodag_2018)
 
 
-![](http://beta.nieneb.nl/img/online/rohingya_2.png)
+![]({{< baseurl >}}img/online/rohingya_2.png)
 
 
 

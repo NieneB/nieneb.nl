@@ -3,7 +3,7 @@ title: "Web Map Universe"
 date: 2018-08-18T13:51:01+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/geotrends.jpeg"
+image : "https://nieneb.nl/img/online/geotrends.jpeg"
 weight : 0
 ---
 

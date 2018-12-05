@@ -74,23 +74,23 @@ Spuiten:
 
 ## En andere roest
 
-<img src="/img/auto/achter/IMG_20180804_141919.jpg" width=400px/>
-<img src="/img/auto/achter/IMG_20180804_092443.jpg" width=400px/>
-<img src="/img/auto/IMG_20180803_114538.jpg" width=400px/>
-<img src="/img/auto/IMG_20180804_140630.jpg" width=400px/>
-<img src="/img/auto/IMG_20180805_071834.jpg" width=400px/>
-<img src="/img/auto/IMG_20180805_071848.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/achter/IMG_20180804_141919.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/achter/IMG_20180804_092443.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180803_114538.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180804_140630.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180805_071834.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180805_071848.jpg" width=400px/>
 
 ## Onderkant
 
 Ook de onderkant schoongemaakt en opnieuw in de Textyl. Op het eerste gezicht zag het er goed uit, en hoefde er niet zo heel veel bijgewerkt te worden. 
 
-<img src="/img/auto/IMG_20180724_185419.jpg" width=400px/>
-<img src="/img/auto/IMG_20180724_185410.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180724_185419.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180724_185410.jpg" width=400px/>
 
 Helaas kom je dan ook slechtere dingen tegen... Zoals een paar flinke gaten bij de schokbrekers voor. 
 
-<img src="/img/auto/IMG_20180724_125526.jpg" width=400px/>
-<img src="/img/auto/IMG_20180724_141016.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180724_125526.jpg" width=400px/>
+<img src="{{< baseurl >}}/img/auto/IMG_20180724_141016.jpg" width=400px/>
 
 Wordt vervolgd.. 

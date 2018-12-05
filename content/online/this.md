@@ -3,7 +3,7 @@ title: "This Website"
 date: 2018-09-04T21:26:43+02:00
 showonlyimage : false
 draft : false
-image : ""
+image : "https://nieneb.nl/img/online/this_website.png"
 weight : 0
 screenname: "BNiene"
 hashtags: ""

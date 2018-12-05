@@ -1,13 +1,13 @@
 ---
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/toponamen.png"
+image : "https://nieneb.nl/img/online/toponamen.png"
 weight : 3
 title: "Toponamen"
 date: 2018-08-17T17:08:57+02:00
 ---
 
-* [Application](http://nieneb.github.io/TopoNamen/)
+* [Application](https://nieneb.github.io/TopoNamen/)
 
 The map shows place name suffixes in the Netherlands. 
 <!--more-->

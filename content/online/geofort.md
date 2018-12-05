@@ -3,7 +3,7 @@ title: "Alle wegen leiden naar het Geofort"
 date: 2018-08-18T15:27:34+02:00
 showonlyimage : false
 draft : false
-image : "http://beta.nieneb.nl/img/online/geofort_wegen_canvas.png"
+image : "https://nieneb.nl/img/online/geofort_wegen_canvas.png"
 weight : 0
 ---
 
@@ -17,12 +17,9 @@ Het blikveld van de kijker én de routes bewegen over de kaart. Door niet alle 3
 
 </br>
 
-<img src="http://webmapper.net/images/2018/all-routes-result.gif">
+<img src="https://webmapper.net/images/2018/all-routes-result.gif">
 
 Want to learn how? Check our blog at http://webmapper.net/2018/06/11/alle-wegen-leiden-naar-het-geofort-1/ 
 
-Made for webmapper. 
-<a href="http://webmapper.net">
-<img src="https://raw.githubusercontent.com/wiki/NieneB/Webmapping_for_beginners/img/webmapper_logo_tekst.png" width="250px"> </a>
 
-
+Made for webmapper: <a href="https://webmapper.net">![](/img/logo_reverse.svg)</a>

@@ -29,6 +29,5 @@ URL TMS:
 https://geodata.nationaalgeoregister.nl/tiles/service/tms/1.0.0/bgtpastel
 /EPSG:28992
 
-Made for webmapper. 
-<a href="http://webmapper.net">
-<img src="https://raw.githubusercontent.com/wiki/NieneB/Webmapping_for_beginners/img/webmapper_logo_tekst.png" width="250px"> </a>
+
+Made for webmapper: <a href="https://webmapper.net">![](/img/logo_reverse.svg)</a>

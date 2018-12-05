@@ -12,10 +12,7 @@ Hallo ik ben Niene! Ik ben full stack web cartograaf bij  <a href='https://webma
 
 
 
-<a href="http://webmapper.net">
-<img src="https://raw.githubusercontent.com/wiki/NieneB/Webmapping_for_beginners/img/webmapper_logo_tekst.png" width="250px"> </a>
-
-
+<a href="https://webmapper.net">![](/img/logo_reverse.svg)</a>
 
 ### More about me
 
