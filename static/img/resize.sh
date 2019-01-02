@@ -22,4 +22,4 @@ find ${FOLDER} -iname '*.jpg' -exec convert \{} -verbose -resize $WIDTHx\> \{} \
 # alternative
 #mogrify -path ${FOLDER} -resize ${WIDTH}x${HEIGHT}% *.png -verbose
 
-find ./bloem -iname '*.jpg' -exec convert \{} -verbose -resize 500x\> \{} \;
+find ./offline -iname '*.jpg' -exec convert \{} -verbose -resize 500x\> \{} \;
