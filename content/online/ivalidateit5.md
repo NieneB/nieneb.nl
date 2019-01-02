@@ -3,7 +3,7 @@ title: "Website and Logo ivalidate.it"
 date: 2018-08-23T17:46:29+02:00
 showonlyimage : false
 draft : false
-image : "https://ivalidateit.com/images/iValidateit_logo_transparant_300.png"
+image : "http://ivalidateit.com/images/iValidateit_logo_transparant_300.png"
 weight : 0
 keywords: ""    
 ---

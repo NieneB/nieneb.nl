@@ -1,5 +1,5 @@
 ---
-title: "Wokshop Cartografie inQGIS"
+title: "Wokshop Cartografie in QGIS"
 date: 2018-10-05T21:21:11+02:00
 showonlyimage : false
 draft : false

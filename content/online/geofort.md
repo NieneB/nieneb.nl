@@ -4,7 +4,7 @@ date: 2018-08-18T15:27:34+02:00
 showonlyimage : false
 draft : false
 image : "https://nieneb.nl/img/online/geofort_wegen_canvas.png"
-weight : 0
+weight : 1
 ---
 
 <!--more-->
