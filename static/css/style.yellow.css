@@ -324,13 +324,16 @@ SIDEBAR + RIGHT COLUMN
     position: fixed;
     width: inherit;
     z-index: 0;
-    padding: 0 1em 0 0.2em;
+    padding:1em;
     overflow-y: auto;
     height:95%;
+    -ms-overflow-style: none;
+    /* overflow: -moz-scrollbars-none;   */
 }
 
 .sidebar-content::-webkit-scrollbar{
-  width:1px;
+  width:0px;
+  background: transparent; /* make scrollbar transparent */
 }
 
 
@@ -341,7 +344,7 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-size: 18px;
+  font-size: 30px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -459,6 +462,11 @@ SIDEBAR + RIGHT COLUMN
   border-bottom: dotted 1px #E5B700;
   color: #000;
   text-decoration: none;
+}
+.small-navbar-p{
+    margin-top: 10px;
+    display: inline-block;
+
 }
 /*
 =====================

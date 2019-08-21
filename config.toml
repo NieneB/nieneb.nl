@@ -6,26 +6,27 @@ Title= "Niene Boeijen"
 # theme = "hugo-creative-portfolio-theme"
 
 [params]
-  title = "Niene Boeijen - My Personal Web Page and Portfolio"
-  Title= "Niene Boeijen"
-  description = "This is my personal website and portfolio. Want to find out what I create for work and in my free time?"
+  title = "Niene Boeijen -"
+  Title= "Niene Boeijen - My Personal Web Page and Portfolio"
+  description = "This is my personal website and portfolio."
   tags = "Personal Web Page" 
   style = "yellow"
-  sidebarAbout = [ "Hello this is me!</br> </br> I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Everything I make is with a creative focus, from geo-data analysis to cartographic visualizations on the web. Check my <a href='/online'>online portfolio</a> for my work online and workshops and presentations. </br></br> In my free time I am always creating things. As artist and tinkerer. Check my <a href='/offline'>offline portfolio</a> for everything physical I create. </br> </br> Want to know more or get into contact with me, check <a href='/about'>about me</a>.</br> </br>I also organize Maptime Amsterdam and Maptime Utrecht."
+  sidebarAbout = [ "I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Everything I make is with a creative focus, from geo-data analysis to cartographic visualizations on the web. Check my <a href='/online-projects'>online projects</a> for my work online and workshops and presentations. </br></br> In my free time I am always creating things. As artist and tinkerer. Check my <a href='offline-projects/'>offline projects</a> for everything physical I create. </br> </br> Want to know more or get into contact with me, check <a href='/about'>about me</a>.</br> </br>I also organize Maptime Amsterdam and Maptime Utrecht."
   ]
   sidebarAbout2 = [ "niene @ webmapper . net "]
-  sidebarAboutMob = [ "Hello this page is about me!</br> </br> I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Check my <a href='/online'>online portfolio</a> for my work online and workshops and presentations. </br></br> In my free time I am a artist and tinkerer. Check my <a href='/offline'>offline portfolio</a>"
+  sidebarAboutMob = [ "I am a full stack web map developer at <a href='https://webmapper.net' target='_blank' > Webmapper </a>. Check my <a href='/online'>online portfolio</a> for my work online and workshops and presentations. </br></br> In my free time I am a artist and tinkerer. Check my <a href='/offline'>offline portfolio</a> </br></br> Check <a href='/about'> About me </a> to know more about me."
   ]
   email = "niene@webmapper.net"
 
   [[params.navlinks]]
-  name = "Online Portfolio"
-  url = "online/"
+  name = "Online Projects"
+  url = "online-projects/"
   home = true
+  
 
   [[params.navlinks]]
-  name = "Offline Portfolio"
-  url = "offline/"
+  name = "Offline Projects"
+  url = "offline-projects/"
 
   [[params.navlinks]]
   name = "About me"

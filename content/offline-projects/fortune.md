@@ -2,7 +2,7 @@
 title: "Gipsy Fortune teller LED dress"
 date: 2019-02-20T15:19:25+01:00
 showonlyimage : false
-draft : true
+draft : false
 image : "https://farm8.staticflickr.com/7824/46403783625_5d6b2ae846.jpg"
 weight : 1
 screenname: "BNiene"
@@ -31,7 +31,7 @@ Of course all made by me. Sewing, soldering, programming. Here I will explain ho
 
 My [previous princess dress](https://nieneb.nl/offline-projects/led_light_dress/) gave light for one evening. It was robust. Survived from 20:00 till 01:00. At exactly 01:00 when picking up my coat from the gardarobe the RaspberryPi ran out of power and stopped functioning. The LED strips survived a full crowd of people, bumping into me, dancing and drinking lots of beer. 
 
-A lot can be improved on my project. Starting with the software; using a [RaspberryPi for Neopixel LEDs](https://github.com/jgarff/rpi_ws281x) isn't the most convenient way to go. Although it did work thanks to Jeremy Garff's library and I had a python server running with an app on my phone that controlled the LEDs, it was overkill, not very solid or bug free.. I even used a `ssh` connection on my phone will standing in the pub to fix things on the spot! For the hardware; the cables I used for powering were way to stiff and large, I could have taken thinner cables. I sew on my strips, while using something like klitterband would have been more convenient. The power needed for the LED strips was over estimated at the time. So I dragged around too much hardware. 
+A lot can be improved on my project. Starting with the software; using a [RaspberryPi for Neopixel LEDs](https://github.com/jgarff/rpi_ws281x) isn't the most convenient way to go. Although it did work thanks to Jeremy Garff's library and I had a python server running with an app on my phone that controlled the LEDs, it was overkill, not very solid or bug free.. I even used a `ssh` connection on my phone will standing in the pub to fix things on the spot! For the hardware; the cables I used for powering were way to stiff and large, I could have taken thinner cables. I sew on my strips, while using something like velcro tape )(klittenband) would have been more convenient. The power needed for the LED strips was over estimated at the time. So I dragged around too much hardware. 
 
 The costume theme was a princess dress and it lacked the kind of small story that a costume makes a good costume. People were amazed by my costume and found it beautiful, but they didn't "get it". (and I certainly did not win the best costume price.... ) A princess dress doesn't give light and there was no interaction for the people to play with the cool functionality itself. It needed something more persuading. 
 
