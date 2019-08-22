@@ -1,10 +1,20 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{ with .Title }}<title>{{ $.Site.Params.Title }} - {{ . }}</title>{{ end }}
+
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
+
+{{ with .Title }}<meta property="og:title" content="{{ . }}"/> {{ end }}
+
+{{ with .Title }}<meta property="og:description" content= "{{ . }} - {{ $.Site.Params.Title }} " /> {{ end }}
+
+{{ with .Params.image}} <meta property="og:image" content="{{ . }}"> 
+{{ else }} 
+<meta property="og:image" content="http://localhost:1313/img/bag_3d_amsterdam.png" />
+{{ end }}
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
 
