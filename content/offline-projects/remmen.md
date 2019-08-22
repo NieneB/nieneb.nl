@@ -3,7 +3,7 @@ title: "Remmen Volvo 343"
 date: 2019-08-18T13:35:57+02:00
 showonlyimage : false
 draft : false
-image : "https://live.staticflickr.com/65535/48590713796_c3932f1e2b_c.jpg"
+image : "/img/rem_me.jpg"
 weight : 1
 ---
 

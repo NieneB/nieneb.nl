@@ -7,11 +7,11 @@ image : "https://live.staticflickr.com/65535/48590637071_fc260e694b_z.jpg"
 weight : 1
 ---
 
-<!--more-->
- 
-Voor het [Jeugd Vakantie Werk Herpen](https://www.facebook.com/jvw.herpen/) werd ik gevraagd een tweede masker van de Medicijnman te maken. De Medicijnman is een terugkeerend karakter van het Indianenkamp wat jaarlijks gehouden wordt in de bossen van Herperduin. In het verhaal wat zich door het kamp afspeelt zou dit jaar de Medicijnman verbrand worden en daarna weer terug keeren tot leven. Een masker en kostuum dus om te verbranden. 
+Voor het [Jeugd Vakantie Werk Herpen](https://www.facebook.com/jvw.herpen/) werd ik gevraagd een tweede masker van de Medicijnman te maken.<!--more-->
 
-Hieronder zie je mij met de maker van het originele masker, Geert Castenmiller. Het originele masker gaat al zeker tientallen jaren mee en is dus een stukje jeugd erfgoed/sentiment voor mij. Om de kans te krijgen deze kunstenaar en held te mogen evenaren vond ik erg bijzonder! 
+De Medicijnman is een terugkerend karakter van het Indianenkamp wat jaarlijks gehouden wordt in de bossen van Herperduin. In het verhaal wat zich door het kamp afspeelt zou dit jaar de Medicijnman verbrand worden en daarna weer terug tot leven komen. Er was een extra masker en kostuum nodig om te verbranden dus. 
+
+Hieronder zie je mij met de maker van het originele masker, Geert Castemiller. Het originele masker gaat al zeker tientallen jaren mee en is dus een stukje jeugd erfgoed/sentiment voor mij. Om de kans te krijgen deze kunstenaar en [held](https://www.bd.nl/oss-e-o/jeugdvakantiewerk-herpen-uitgeroepen-tot-helden-van-herpen~a1c516d6/) te mogen evenaren vond ik erg bijzonder! 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141950816@N04/48590643851/in/album-72157710461083317/" title="Medicijnman making off"><img src="https://live.staticflickr.com/65535/48590643851_9ab1ac7fc9_b.jpg" width="1024" height="578" alt="Medicijnman making off"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -26,12 +26,18 @@ Vervolgens heb ik met acryl verf de hoorns geschilderd. En uiteindelijk een klei
 
 Zie hieronder in de slideshow de making off van de hoorns:
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/141950816@N04/48590784932/in/album-72157710462164432/" title="Medicijnman making off"><img src="https://live.staticflickr.com/65535/48590784932_f1140c9055_c.jpg" width="452" height="800" alt="Medicijnman making off"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<div class="slideshow">
+<h5> Slide show making off Koeienhoorns </h5>
+<p> Ga met je muis op de foto staan om naar links en rechts door de foto's te klikken </p> 
+<a  data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/141950816@N04/48590784932/in/album-72157710462164432/" title="Medicijnman making off"><img src="https://live.staticflickr.com/65535/48590784932_f1140c9055_c.jpg" width="452" height="800" alt="Medicijnman making off"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 ## Het masker
 
 Van kaal frame tot haren en bamboe stokken. 
-Ik ben begonnen met een frame van ijzerdraad (elektriciteits kabels). Deze zijn makkelijk te vormen. Daarover heen met kippen gaas de vorm verder afgemaakt. Daarnast gewoon wat karton voor de oren. 
+Ik ben begonnen met een frame van ijzerdraad (elektriciteits kabels). Deze zijn makkelijk te vormen. Daarover heen met kippen gaas de vorm verder afgemaakt. Daarnaast gewoon wat karton voor de oren. 
 
 Met papiermarsé (oude kranten en behanglijm) een paar lagen aangebracht. En een laatste laag in wit papier.
 
@@ -39,7 +45,12 @@ De neppe hoorns zijn hiermee meteen vast gezet.
 
 Zie het proces hier in een slideshow:
 
+
+<div class="slideshow">
+<h5> Slide show making off masker </h5>
+<p> Ga met je muis op de foto staan om naar links en rechts door de foto's te klikken </p> 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/141950816@N04/48590637651/in/album-72157710462541146/" title="Medicijnman making off"><img src="https://live.staticflickr.com/65535/48590637651_1921290ea6_c.jpg" width="600" height="800" alt="Medicijnman making off"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 Daarna de boel opgeschilderd met acrylverf.
 
@@ -57,7 +68,12 @@ Rechts is de originele. Links de namaak.
 
 ## Overig kostuum
 
+
+<div class="slideshow">
+<h5> Slide show van kostuum onderdelen </h5>
+<p> Ga met je muis op de foto staan om naar links en rechts door de foto's te klikken </p> 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/141950816@N04/48590695911/in/album-72157710462515692/" title="IMG-20190603-WA0003"><img src="https://live.staticflickr.com/65535/48590695911_be769b1763.jpg" width="282" height="500" alt="IMG-20190603-WA0003"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 Compleet bij elkaar:
 

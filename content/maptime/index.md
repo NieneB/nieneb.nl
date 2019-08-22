@@ -16,22 +16,23 @@ I organize both Maptime Amsterdam and Maptime030 Utrecht.
 ## Amsterdam 
 
 <p class="social">
-    <a href="" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-meetup"></i>  
+    <a href="https://www.meetup.com/Maptime-AMS/" data-animate-hover="pulse" class="external twitter">
+        <i class="fa fa-link"></i> Meetup
     </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
+    <a href="https://github.com/maptime-ams/" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-github"></i>  
     </a>
     <a href="https://twitter.com/maptimeAMS" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-twitter"></i> @maptimeAMS 
     </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-web"></i>  
+    <a href=" http://code.waag.org/maptimeAMS" data-animate-hover="pulse" class="external twitter">
+        <i class="fa fa-link"></i>  
+    </a>
+     <a href="https://maptime-ams.github.io/" data-animate-hover="pulse" class="external twitter">
+        <i class="fa fa-link"></i>  Website
     </a>
 </p>
- 
- <a href='https://meetup.com/Maptime-AMS'>Meetup Maptime Amsterdam</a> </br>    
- http://code.waag.org/maptimeAMS
+
 
   </a><a href="http://maptime.io">
 <img src="https://raw.githubusercontent.com/NieneB/Webmapping_for_beginners/gh-pages/img//maptimeAMS.png" width="250px">
@@ -43,20 +44,15 @@ I organize both Maptime Amsterdam and Maptime030 Utrecht.
 
 ## Utrecht
 
-<a href='https://meetup.com/Maptime030'>Maptime Utrecht</a>
-
 <p class="social">
-    <a href="" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-meetup"></i>  
+    <a href="https://www.meetup.com/Maptime030-Utrecht/" data-animate-hover="pulse" class="external twitter">
+        <i class="fa fa-link"></i> Meetup
     </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
+    <a href="https://github.com/Maptime030" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-github"></i>  
     </a>
-    <a href="https://twitter.com/maptimeAMS" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-twitter"></i> @maptimeAMS 
-    </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-web"></i>  
+    <a href="https://twitter.com/MaptimeUtrecht" data-animate-hover="pulse" class="external twitter">
+        <i class="fa fa-twitter"></i> @MaptimeUtrecht 
     </a>
 </p>
  

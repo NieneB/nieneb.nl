@@ -3,7 +3,7 @@ title: "About me"
 date: 2018-08-17T17:10:25+02:00
 ---
 
-![niene](http://beta.nieneb.nl/img/niene.png)
+![niene](/img/niene.png)
 
 Hello I am Niene! I am a full stack web map developer at  <a href='https://webmapper.net' target='_blank' > Webmapper </a>. I make everything with a creative focus: from data analysis to visualization on the web. Strong arts and design professional with a master degree in Geo Information Science at the Wageningen University. I designed and developed several maps of the Netherlands; from geo-data processing, back-end and applications to the cartographic visualizations. I have a lot of experience with Dutch Open Geo-data , OSM and skills in all kinds of open source tools; like PostGIS, Qgis, MapboxGL.js, JavaScript, D3.js, Inkscape, and Linux. 
 Next to my technical skills, I organize <a href="/maptime">Maptime</a> meetups for over 2 years now and help spread knowledge in the geo-community. I am always looking for new developments and interesting stories in the geo field, to share or to learn! 
@@ -17,19 +17,21 @@ Hallo ik ben Niene! Ik ben full stack web cartograaf bij  <a href='https://webma
 ### More about me
 
 <p class="social">
-    <a href="" data-animate-hover="pulse" class="external twitter">
+    <a href="https://www.linkedin.com/in/niene-boeijen-24a8a429/" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-linkedin"></i>  
     </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
+    <a href="https://github.com/NieneB" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-github"></i>  
     </a>
-    <a href="" data-animate-hover="pulse" class="external twitter">
+    <a href="https://twitter.com/BNiene" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-twitter"></i>  
+    </a>
+    <a href="https://www.instagram.com/volvo_343_dl_1980/"><i class="fa fa-instagram"> </i>
     </a>
 </p>
 
 
-You can view my full resume at my LinkedIn page.
+You can view my full resumé at my LinkedIn page.
 
 Mijn volledige CV kunt je vinden op mijn LinkedIn pagina.
 
