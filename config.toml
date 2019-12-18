@@ -22,11 +22,14 @@ Title= "Niene Boeijen"
   name = "Online Projects"
   url = "online-projects/"
   home = true
-  
 
   [[params.navlinks]]
   name = "Offline Projects"
   url = "offline-projects/"
+
+  [[params.navlinks]]
+  name = "Workshops & Presentations"
+  url = "workshops/"
 
   [[params.navlinks]]
   name = "About me"
@@ -36,6 +39,10 @@ Title= "Niene Boeijen"
   name = "Maptime"
   url = "maptime/"
 
+  [[params.navlinks]]
+  name = "Talks"
+  url = "talks/"
+  
   [params.social]
   github = "https://github.com/NieneB"
   twitter = "https://twitter.com/BNiene"

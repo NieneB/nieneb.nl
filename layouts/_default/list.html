@@ -1,3 +1,7 @@
 {{ define "main" }}
-  {{ partial "portfolio.html" . }}
+  {{ if eq .Section "talks" }}
+      {{ partial "talks.html" . }}
+  {{else}}
+    {{ partial "portfolio.html" . }}
+  {{end}}
 {{ end }}

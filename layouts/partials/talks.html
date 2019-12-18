@@ -1,0 +1,51 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  {{ range .Data.Pages }}
+  <div class="row talksection">
+    <article class="" >
+      <div class="col-md-2" style="width: 150px; height:150px; background-image: url('{{ absURL (default "img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center;">
+        <a href="{{ .Permalink }}"
+          >
+          <i class="{{ cond (gt .Date.Unix now.Unix) "fa fa-hourglass" "fa-calendar-alt" }}"></i>
+          {{ .Date.Format "Jan 2, 2006" }}
+        </a>
+      </div>
+      <div class="text col-md-10">
+        <h1 ><a href="{{ .Permalink }}">
+            {{- if eq .Section "talks" }}{{ .Params.event }}: {{ end -}}
+            {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}}
+          </a></h1>
+        <p ><a href="{{ .Permalink }}">Talk Details <i
+              ></i></a></p>
+        {{ if .Description }}
+        {{ .Description }}
+        {{ else }}
+        {{ .Summary }}
+        {{ end }}
+        <p><a href="{{ .Params.link }}">Presentation <i class="fa fa-caret-square-o-left"></i> </a></p>
+        {{if .Params.video}}
+        <p><a href="{{ .Params.video }}">See Video <i class="fa fa-video-camera"></i> </a></p>
+        {{ end}}
+        <p ><a href="{{ .Permalink }}">Continue Reading <i
+              ></i></a></p>
+      </div>
+    </article>
+    </div>
+  {{end}}
+</div>
+
+
+
+{{ define "social" }}
+<meta property="og:title"
+  content="{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}" />
+<meta property="og:type" content="article" />
+<meta property="og:image"
+  content="{{ default (default "img/default-header-img.jpg" .Params.image) .Params.thumbnail | absURL }}" />
+<meta property="og:description" content="{{ .Description | markdownify }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name"
+  content="{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
+{{ end }}
