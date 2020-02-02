@@ -11,16 +11,23 @@
         </a>
       </div>
       <div class="text col-md-10">
-        <h1 >
-            {{- if eq .Section "talks" }}{{ .Params.event }}: {{ end -}}
-            <!-- {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}} -->
-          </h1>
+        <div class="box-masonry-text">
+        <h4 class="talkevent">
+            {{- if eq .Section "talks" }}{{ .Params.event }}  {{ end -}}
+            </h4>
+          <h3 class="talktitle">
+            {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}}
+          </h3>
+          <div class="box-masonry-description">
 
+          <p>
         {{ if .Description }}
         {{ .Description }}
         {{ else }}
         {{ .Summary }}
         {{ end }}
+        </p>
+
         <p ><a href="{{ .Permalink }}">Talk Details <i
               ></i></a></p>
         <p>
@@ -34,6 +41,8 @@
             <a href="{{ .Params.externallink }}"> <i class="fa fa-link"></i> Event page </a>
           {{ end }}
         </p>
+        </div>
+        </div>
       </div>
     </article>
     </div>

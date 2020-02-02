@@ -20,4 +20,12 @@
 
 .talksection .text{
     /* width: 80%; */
+    color: #999999;
+    font-size: 14px;
+}
+
+
+.talksection .talkevent{
+
+  color: #9a9a9a;
 }
