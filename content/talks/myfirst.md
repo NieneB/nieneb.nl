@@ -2,9 +2,9 @@
 title: "A Future Talk"
 date: 2018-08-17T17:10:25+02:00
 event: "FutureConf 2025"
-credit: "https://unsplash.com/photos/ZGKqdnfbOWo"
-image: "/talks/tim-van-der-kuip-769737-unsplash.jpg"
+image: "/img/niene.png"
 slides: "/talks/pdf-slides.pdf"
+externallink: "https://"
 description: "Story's talks pages can highlight upcoming appearances, promoting your talks before you present."
 ---
 
@@ -18,4 +18,3 @@ site.
 
 This page also illustrates that you can use PDF slides. Story uses PDF.js to embed a slide viewer.
 So you don't have to build slides in RemarkJS, you can host them yourself, like Slideshare (but better).
-

@@ -11,23 +11,29 @@
         </a>
       </div>
       <div class="text col-md-10">
-        <h1 ><a href="{{ .Permalink }}">
+        <h1 >
             {{- if eq .Section "talks" }}{{ .Params.event }}: {{ end -}}
-            {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}}
-          </a></h1>
-        <p ><a href="{{ .Permalink }}">Talk Details <i
-              ></i></a></p>
+            <!-- {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}} -->
+          </h1>
+
         {{ if .Description }}
         {{ .Description }}
         {{ else }}
         {{ .Summary }}
         {{ end }}
-        <p><a href="{{ .Params.link }}">Presentation <i class="fa fa-caret-square-o-left"></i> </a></p>
-        {{if .Params.video}}
-        <p><a href="{{ .Params.video }}">See Video <i class="fa fa-video-camera"></i> </a></p>
-        {{ end}}
-        <p ><a href="{{ .Permalink }}">Continue Reading <i
+        <p ><a href="{{ .Permalink }}">Talk Details <i
               ></i></a></p>
+        <p>
+          <a href="{{ .Params.link }}"><i class="fa fa-caret-square-o-left"></i> Presentation Slides</a>
+          {{ if .Params.video}}
+            <br>
+            <a href="{{ .Params.video }}"><i class="fa fa-video-camera"></i> See Video</a>
+          {{end}}
+          {{ if .Params.externallink}}
+            <br>
+            <a href="{{ .Params.externallink }}"> <i class="fa fa-link"></i> Event page </a>
+          {{ end }}
+        </p>
       </div>
     </article>
     </div>
@@ -36,7 +42,7 @@
 
 
 
-{{ define "social" }}
+<!-- {{ define "social" }}
 <meta property="og:title"
   content="{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}" />
 <meta property="og:type" content="article" />
@@ -48,4 +54,4 @@
   content="{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
-{{ end }}
+{{ end }} -->
