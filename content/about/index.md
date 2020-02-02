@@ -34,9 +34,7 @@ Mijn volledige CV kunt je vinden op mijn <a href="https://www.linkedin.com/in/ni
 
 
 ###  Contact
-<p class="social">
-   <i class="fa fa-envelope">  </i> niene A webmapper . net
-</p>
+
 <p class="social">
    <i class="fa fa-envelope">  </i> niene . boeijen A gmail . com
 </p>

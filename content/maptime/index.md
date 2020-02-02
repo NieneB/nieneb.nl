@@ -11,9 +11,9 @@ This open learning environment for all levels and degrees of knowledge offers in
 For more information about Maptime visit [maptime.io](http://maptime.io/)
 
 
-I organize both Maptime Amsterdam and Maptime030 Utrecht. 
- 
-## Amsterdam 
+I organize both Maptime Amsterdam and Maptime030 Utrecht.
+
+## Amsterdam
 
 <p class="social">
     <a href="https://www.meetup.com/Maptime-AMS/" data-animate-hover="pulse" class="external twitter">
@@ -23,7 +23,7 @@ I organize both Maptime Amsterdam and Maptime030 Utrecht.
         <i class="fa fa-github"></i>  
     </a>
     <a href="https://twitter.com/maptimeAMS" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-twitter"></i> @maptimeAMS 
+        <i class="fa fa-twitter"></i> @maptimeAMS
     </a>
     <a href=" http://code.waag.org/maptimeAMS" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-link"></i>  
@@ -37,10 +37,10 @@ I organize both Maptime Amsterdam and Maptime030 Utrecht.
   </a><a href="http://maptime.io">
 <img src="https://raw.githubusercontent.com/NieneB/Webmapping_for_beginners/gh-pages/img//maptimeAMS.png" width="250px">
 
-
+<!-- 
 <a href="https://waag.org/en/users/niene-boeijen">
 <img src="https://raw.githubusercontent.com/NieneB/Webmapping_for_beginners/gh-pages/img//WS_logo.jpg" width="250px">
-</a>
+</a> -->
 
 ## Utrecht
 
@@ -52,7 +52,6 @@ I organize both Maptime Amsterdam and Maptime030 Utrecht.
         <i class="fa fa-github"></i>  
     </a>
     <a href="https://twitter.com/MaptimeUtrecht" data-animate-hover="pulse" class="external twitter">
-        <i class="fa fa-twitter"></i> @MaptimeUtrecht 
+        <i class="fa fa-twitter"></i> @MaptimeUtrecht
     </a>
 </p>
- 
