@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ if eq .Section "talks" }}
       {{ partial "talks.html" . }}
-      {{else if eq .Section " workshops"}}
+      {{else if eq .Section "workshops"}}
       {{ partial "talks.html" . }}
       {{else}}
     {{ partial "portfolio.html" . }}

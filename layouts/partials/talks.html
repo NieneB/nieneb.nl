@@ -3,45 +3,48 @@
   {{ range .Data.Pages }}
   <div class="row talksection">
     <article class="" >
-      <div class="col-md-2" style="width: 150px; height:150px; background-image: url('{{ absURL (default "img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center;">
-        <a href="{{ .Permalink }}"
-          >
+      <div class="text col-md-12 col-lg-10">
+
+        <a href="{{ .Permalink }}">
           <i class="{{ cond (gt .Date.Unix now.Unix) "fa fa-hourglass" "fa-calendar-alt" }}"></i>
           {{ .Date.Format "Jan 2, 2006" }}
         </a>
-      </div>
-      <div class="text col-md-10">
+
+        <div id="image" style="background-image: url('{{ absURL (default "img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center; background-repeat: no-repeat;
+        background-size: contain;"></div>
         <div class="box-masonry-text">
-        <h4 class="talkevent">
-            {{- if eq .Section "talks" }}{{ .Params.event }}  {{ end -}}
-            </h4>
-          <h3 class="talktitle">
-            {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}}
-          </h3>
+          <h5 class="talkevent">
+              {{ .Params.event }}
+          </h5>
+          <h4 class="talktitle">
+              {{- cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) -}}
+          </h4>
           <div class="box-masonry-description">
+            <p>
+            {{ if .Summary }}
+            {{ .Summary }}
+              {{ if .Truncated }}
+                <a href="{{ .Permalink }}"> more info .. </a>
+             {{end}}
+            {{ end }}
+            </p>
 
-          <p>
-        {{ if .Description }}
-        {{ .Description }}
-        {{ else }}
-        {{ .Summary }}
-        {{ end }}
-        </p>
-
-        <p ><a href="{{ .Permalink }}">Talk Details <i
-              ></i></a></p>
-        <p>
-          <a href="{{ .Params.link }}"><i class="fa fa-caret-square-o-left"></i> Presentation Slides</a>
-          {{ if .Params.video}}
-            <br>
-            <a href="{{ .Params.video }}"><i class="fa fa-video-camera"></i> See Video</a>
-          {{end}}
-          {{ if .Params.externallink}}
-            <br>
-            <a href="{{ .Params.externallink }}"> <i class="fa fa-link"></i> Event page </a>
-          {{ end }}
-        </p>
-        </div>
+            <p class="links">
+              <a href="{{ .Params.link }}"><i class="fa fa-caret-square-o-left"></i> Presentation Slides</a>
+              {{ if .Params.video}}
+                <br>
+                <a href="{{ .Params.video }}"><i class="fa fa-video-camera"></i> See Video</a>
+              {{end}}
+              {{ if .Params.workshop}}
+                <br>
+                <a href="{{ .Params.workshop }}"> <i class="fa fa-link"></i> Workshop </a>
+              {{ end }}
+              {{ if .Params.externallink}}
+                <br>
+                <a href="{{ .Params.externallink }}"> <i class="fa fa-link"></i> Event page </a>
+              {{ end }}
+            </p>
+          </div>
         </div>
       </div>
     </article>
