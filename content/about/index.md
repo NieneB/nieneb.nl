@@ -3,7 +3,7 @@ title: "About me"
 date: 2018-08-17T17:10:25+02:00
 ---
 
-![niene](/img/niene.png)
+![niene](/img/twitter_foto6.png)
 
 Hello I am Niene! I am a freelance full stack web map developer. I make everything with a creative focus: from data analysis to visualization on the web. Strong arts and design professional with a master degree in Geo Information Science at the Wageningen University. I designed and developed several maps of the Netherlands; from geo-data processing, back-end and applications to the cartographic visualizations. I have a lot of experience with Dutch Open Geo-data , OSM and skills in all kinds of open source tools; like PostGIS, Qgis, MapboxGL.js, JavaScript, D3.js, Inkscape, and Linux.
 Next to my technical skills, I organize <a href="/maptime">Maptime</a> meetups for over 2 years now and help spread knowledge in the geo-community. I am always looking for new developments and interesting stories in the geo field, to share or to learn!
